@@ -18,3 +18,8 @@ Copy "Dark Solarized.xml" to your color preferences directory. On my mac it is l
 Start Intellij IDEA
 
 Navigate to Preferences - Editor - Color & Fonts and choose "Dark Solarized" from the drop-down list
+
+Sample
+============
+
+(https://github.com/prenagha/intellij-solarized/raw/master/Sample.png)
