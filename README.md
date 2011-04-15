@@ -22,4 +22,4 @@ Navigate to Preferences - Editor - Color & Fonts and choose "Dark Solarized" fro
 Sample
 ============
 
-(https://github.com/prenagha/intellij-solarized/raw/master/Sample.png)
+![Sample](https://github.com/prenagha/intellij-solarized/raw/master/Sample.png)
