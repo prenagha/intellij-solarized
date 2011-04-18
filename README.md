@@ -13,20 +13,12 @@ See the [Solarized homepage] for screenshots,
 details and colorscheme versions for IntelliJ IDEA, Vim, Mutt, popular terminal emulators and 
 other applications.
 
+[Solarized homepage]:   http://ethanschoonover.com/solarized
+
 Solarized IntelliJ IDEA Screenshot
 ----------------------------------
 
 ![solarized dark](https://github.com/prenagha/intellij-solarized/raw/master/Sample.png)
-
-Downloads
----------
-
-If you have come across this colorscheme via the [Intellij IDEA repository] on 
-github see the link above to the Solarized homepage or visit the main [Solarized repository].
-
-[Solarized homepage]:   http://ethanschoonover.com/solarized
-[Solarized repository]: https://github.com/altercation/solarized
-[Intellij IDEA repository]:  https://github.com/prenagha/intellij-solarized
 
 Installation
 ------------
