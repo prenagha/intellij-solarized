@@ -1,19 +1,20 @@
 
-Solarized Colorscheme for Intellij IDEA
+Solarized Colorscheme for IntelliJ IDEA
 =======================================
 
 Solarized developed by Ethan Schoonover <es@ethanschoonover.com>
-Intellij IDEA Colorscheme developed by Padraic Renaghan <prenagha@renaghan.com>
+
+IntelliJ IDEA Colorscheme developed by Padraic Renaghan <prenagha@renaghan.com>
 
 Visit the [Solarized homepage]
 ------------------------------
 
 See the [Solarized homepage] for screenshots, 
-details and colorscheme versions for Intellij IDEA, Vim, Mutt, popular terminal emulators and 
+details and colorscheme versions for IntelliJ IDEA, Vim, Mutt, popular terminal emulators and 
 other applications.
 
-Screenshots
------------
+Solarized IntelliJ IDEA Screenshot
+----------------------------------
 
 ![solarized dark](https://github.com/prenagha/intellij-solarized/raw/master/Sample.png)
 
@@ -30,14 +31,16 @@ github see the link above to the Solarized homepage or visit the main [Solarized
 Installation
 ------------
 
-1. Shutdown Intellij IDEA
+1. Close IntelliJ IDEA
 
 2. Copy `Dark Solarized.xml` to your color preferences directory. On my mac it is located in
 ``~/Library/Preferences/IntelliJIdea10/colors``
 
-3. Start Intellij IDEA
+3. Open IntelliJ IDEA
 
-4. `Navigate to Preferences - Editor - Color & Fonts` and choose `Dark Solarized` from the drop-down list
+4. Navigate to `Preferences - Editor - Color & Fonts` and choose `Dark Solarized` from the drop-down list
+
+5. IntelliJ IDEA embeds font selection in the colorscheme file. Set the font to your liking.
 
 
 License
